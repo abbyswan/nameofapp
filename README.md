@@ -1,6 +1,6 @@
 # README
 
- Hi My name is Abby and this is my app.
+ Hi My name is Abby and this is my app. I am almost finished. 
 
 Things you may want to cover:
 
